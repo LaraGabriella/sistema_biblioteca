@@ -1,4 +1,4 @@
-from conexao import connect
+from conexao_amelyne import connect
 
 def insert(mydb, titulo, autor):
     mycursor = mydb.cursor()
