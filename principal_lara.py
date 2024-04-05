@@ -8,3 +8,5 @@ a = 'Jhonathan Rennan'
 insert(mydb, t, a)
 
 mydb.close()
+
+'''teste'''
